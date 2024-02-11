@@ -22,7 +22,8 @@ HTTP-FLOOD TOOL By:Lum1Nat3
 
 
 # Screenshot
-https://github.com/lum1nat3sec/FloodxLum1/blob/main/screenshot.png
+
+![Alt text](https://github.com/lum1nat3sec/FloodxLum1/blob/main/screenshot.png)
 
 
 # Thanks For choosing :)
